@@ -142,7 +142,7 @@ const ReturnPolicy = () => {
         >
           <p className="text-gray-700 text-sm md:text-base">
             <strong>To start a return:</strong> Please contact our customer support at{" "}
-            <a href="mailto:support@wahidfoodssmc.com" className="text-[#2a6b5e] font-medium hover:underline">support@wahidfoodssmc.com</a> or visit your{" "}
+            <a href="mailto:support@Infinity Bytes.com" className="text-[#2a6b5e] font-medium hover:underline">support@Infinity Bytes.com</a> or visit your{" "}
             <a href="/profile" className="text-[#2a6b5e] font-medium hover:underline">account page</a>.
           </p>
         </div>

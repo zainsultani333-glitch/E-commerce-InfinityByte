@@ -98,8 +98,8 @@ const handleCheckout = async (paymentMethod = "stripe") => {
           price: item.price,
           quantity: item.quantity,
         })),
-        success_url: "https://www.wahidfoodssmc.com/success",
-        cancel_url: "https://www.wahidfoodssmc.com/cancel",
+        success_url: "https://www.Infinity Bytes.com/success",
+        cancel_url: "https://www.Infinity Bytes.com/cancel",
         metadata,
         deviceFingerprintId, // ✅ send to backend only for safepay
       }),

@@ -48,7 +48,7 @@ const Complaints = () => {
               <strong>Contact Channels:</strong> Customers can reach out to us
               via email at{" "}
               <a
-                href="mailto:support@wahidfoodssmc.com"
+                href="mailto:support@Infinity Bytes.com"
                 className="text-newPrimary font-medium underline"
               >
               support@infinitybytes.com

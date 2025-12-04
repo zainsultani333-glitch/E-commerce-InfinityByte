@@ -85,7 +85,7 @@ const PrivacyPolicy = () => {
             By using our site, you agree to this policy. For questions, contact
             us at{" "}
             <a
-              href="mailto:support@wahidfoodssmc.com"
+              href="mailto:support@Infinity Bytes.com"
               className="text-newPrimary underline"
             >
              support@infinitybytes.com

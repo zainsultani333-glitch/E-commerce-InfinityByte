@@ -61,10 +61,10 @@ const RefundReturn = () => {
           <p className="text-sm italic text-gray-600 mt-4">
             For further assistance or inquiries regarding our refund, return, or exchange policy, please contact us at{" "}
             <a
-              href="mailto:support@wahidfoodssmc.com"
+              href="mailto:support@Infinity Bytes.com"
               className="text-newPrimary underline"
             >
-             support@wahidfoodssmc.com
+             support@Infinity Bytes.com
             </a>.
           </p>
         </div>
