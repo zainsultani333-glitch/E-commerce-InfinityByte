@@ -75,7 +75,7 @@ const About = () => {
         >
 
           <h1 className="text-2xl sm:text-4xl font-bold text-newPrimary mb-8 text-center">
-            About Wahid Foods SMC
+            About Infinity Bytes
           </h1>
 
 
@@ -130,7 +130,7 @@ const About = () => {
           transition={{ delay: 1, duration: 0.5 }}
           className="mt-12 text-center text-gray-500 text-sm"
         >
-          &copy; {new Date().getFullYear()} Wahid Foods SMC. All rights reserved.
+          &copy; {new Date().getFullYear()} Infinity Bytes. All rights reserved.
         </motion.div>
       </div>
     </div>

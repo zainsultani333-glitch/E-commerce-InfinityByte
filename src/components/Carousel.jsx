@@ -10,12 +10,13 @@ const Carousel = () => {
 
   // Image from public/images folder
   const images = [
-    "https://res.cloudinary.com/daexycwc7/image/upload/v1754974051/aifnzpbaw7cvx4trzetq.jpg", 
-    "https://res.cloudinary.com/daexycwc7/image/upload/v1754972791/x16k6iih58fj3h7kwljq.jpg",
-    "https://res.cloudinary.com/daexycwc7/image/upload/v1754974050/zvbc3lalv5aqoz2bb7j5.jpg",
-    "https://res.cloudinary.com/daexycwc7/image/upload/v1754974051/oercbpdztuactoorl2bh.jpg",
-    "https://res.cloudinary.com/daexycwc7/image/upload/v1754972792/rinctxepuwp4zuuzhurz.png",
-    "https://res.cloudinary.com/daexycwc7/image/upload/v1754972791/fmvk8xc2k0bdjegk79uf.png",
+  "https://cavemanorganics.pk/cdn/shop/articles/image1.png?v=1707667951",
+  "https://thaicharmbeauty.com/cdn/shop/collections/Organic_Products.webp?v=1721743767",
+  "https://cavemanorganics.pk/cdn/shop/articles/image1_ea58624e-23ef-4a94-ab04-13916e4d45a0.png?v=1707668880",
+  "https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/wi/art/6b233f78-584-c65ac76d37.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkFuHeuR-m5GBBZ8FseioNCyowctPk9C_YA&s",
+  "https://www.mayasbeautypalace.com/cdn/shop/articles/ultimate-guide-to-the-best-natural-skincare-products-229620.webp?v=1723660199",
+  "https://natrue.org/uploads/2020/05/NATRUE_article.png"
   ];
 
   // Preload all images
@@ -135,9 +136,9 @@ const Carousel = () => {
         <div className="absolute inset-0 flex flex-col items-center justify-center text-white px-6">
           <h1
             ref={textRef}
-            className="text-4xl md:text-5xl font-bold mb-4 text-center animate-pulse text-shadow-cyan"
+            className="text-4xl md:text-5xl font-bold mb-4 text-center animate-pulse text-shadow-xl"
           >
-            Welcome to Wahid Foods SMC PVT.Ltd
+            Welcome to Infinity Bytes PVT.Ltd
           </h1>
           <p className="text-lg md:text-xl mb-8 text-center max-w-2xl">
             Discover the best products with unbeatable deals!

@@ -35,7 +35,7 @@ const Complaints = () => {
           Complaints Handling Mechanism
         </h1>
         <p className="text-gray-700 text-lg leading-relaxed mb-6">
-          At <span className="font-semibold text-newPrimary">Wahid Foods SMC</span>,
+          At <span className="font-semibold text-newPrimary">Infinity Bytes</span>,
           we value our customers and strive to ensure complete satisfaction with
           every order. In the rare event that you encounter any issue, we have a
           transparent and responsive complaints-handling process in place to

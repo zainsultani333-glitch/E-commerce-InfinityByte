@@ -36,7 +36,7 @@ const TermsConditions = () => {
             Terms and Conditions
           </h1>
           <p className="text-gray-800 mb-4 leading-relaxed">
-            Welcome to <span className="font-semibold text-newPrimary">Wahid Foods SMC Pvt Ltd</span> Room no. 1120,Goldcrest Mall, Phase # 4, DHA, Lahore. Contact #: 03106828888. By using our website, you agree to these terms.
+            Welcome to <span className="font-semibold text-newPrimary">Infinity Bytes Pvt Ltd</span> Mall of Lahore, Cantt, Lahore. Contact #: 0310xxxxx. By using our website, you agree to these terms.
           </p>
 
           <h2 className="text-xl font-semibold text-gray-900 mb-2">1. General Terms</h2>
@@ -51,7 +51,7 @@ const TermsConditions = () => {
           <ul className="list-disc list-inside text-gray-800 space-y-1">
             <li>All website content is our exclusive property</li>
             <li>Unauthorized use may violate copyright laws</li>
-            <li>Trademarks are registered to Wahid Foods</li>
+            <li>Trademarks are registered to Infinity Bytes</li>
           </ul>
         </div>
 
@@ -67,7 +67,7 @@ const TermsConditions = () => {
 
           <h2 className="text-xl font-semibold text-gray-900 mt-4 mb-2">4. Limitation of Liability</h2>
           <p className="text-gray-800 mb-4 leading-relaxed">
-            Wahid Foods shall not be liable for:
+            Infinity Bytes shall not be liable for:
             <ul className="list-disc list-inside text-gray-800 space-y-1 mt-2">
               <li>Indirect, incidental or consequential damages</li>
               <li>Errors in product descriptions</li>
@@ -83,10 +83,10 @@ const TermsConditions = () => {
           <p className="text-sm italic text-gray-600">
             Last updated: August 2025 . For questions, contact us at{" "}
             <a
-              href="mailto:support@wahidfoodssmc.com"
+              href="mailto:support@infinitybytes.com"
               className="text-newPrimary underline"
             >
-             support@wahidfoodssmc.com
+             support@infinitybytes.com
             </a>.
           </p>
         </div>

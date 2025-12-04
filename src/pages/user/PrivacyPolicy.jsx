@@ -36,7 +36,7 @@ const PrivacyPolicy = () => {
             Privacy Policy
           </h1>
           <p className="text-gray-800 mb-4 leading-relaxed">
-            At <span className="font-semibold text-newPrimary">Wahid Foods SMC</span>,
+            At <span className="font-semibold text-newPrimary">Infinity Bytes</span>,
             your privacy is important to us. This policy explains how we collect,
             use, and protect your personal data when you visit our website or
             purchase from us.
