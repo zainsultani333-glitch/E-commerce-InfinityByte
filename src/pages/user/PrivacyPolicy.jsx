@@ -88,7 +88,7 @@ const PrivacyPolicy = () => {
               href="mailto:support@wahidfoodssmc.com"
               className="text-newPrimary underline"
             >
-             support@wahidfoodssmc.com
+             support@infinitybytes.com
             </a>.
           </p>
         </div>

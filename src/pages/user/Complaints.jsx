@@ -51,7 +51,7 @@ const Complaints = () => {
                 href="mailto:support@wahidfoodssmc.com"
                 className="text-newPrimary font-medium underline"
               >
-              support@wahidfoodssmc.com
+              support@infinitybytes.com
               </a>{" "}
               or call our dedicated helpline at{" "}
               <span className="font-bold text-newPrimary">+92 3106828888</span>.
